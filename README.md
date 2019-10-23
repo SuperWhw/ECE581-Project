@@ -1,3 +1,3 @@
 # ECE581-Project
 
-These are the Projects for ECE581
+These are Projects for ECE581
